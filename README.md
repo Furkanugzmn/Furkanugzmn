@@ -16,13 +16,10 @@
 <a href="https://github.com/Furkanugzmn">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Furkanugzmn&count_private=true&show_icons=true&theme=chartreuse-dark" />
   <br>
-  </hr>
+  
   <a href="https://github.com/Furkanugzmn">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furkanugzmn&layout=compact&theme=chartreuse-dark&langs_count=8" /></a>
   <br>
-
-
-![Metrics](https://metrics.lecoq.io/Furkanugzmn?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Germany%2FBerlin)
 
 </div>
   
