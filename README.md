@@ -24,22 +24,27 @@
   <br>
 
   <a href="https://github.com/Furkanugzmn">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Furkanugzmn&count_private=true&show_icons=true&theme=chartreuse-dark" /></a>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Furkanugzmn&count_private=true&show_icons=true&theme=chartreuse-dark" /></a>
   
   <a href="https://github.com/Furkanugzmn">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furkanugzmn&layout=compact&theme=chartreuse-dark&langs_count=8" /></a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furkanugzmn&layout=compact&theme=chartreuse-dark&langs_count=8" /></a>
   <br>
 
 </div>
   
 <br> 
+<br>
+<br> 
+<br>
 
 <h3>
-  <p align='center'>I am a Developer. (NEW)<p>
+  <hr>
+  <p align='center'>print("Hello World")</p>
+  <hr>
 </h3>
-  
- <br>
- <br>
+
+<br>
+<br>
   
 <h2> Skills/Things I mostly use: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
