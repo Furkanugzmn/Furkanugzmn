@@ -39,9 +39,9 @@
 - 🌱 I’m currently learning: Well, too much stuff I guess. <br>
 - 👯 I’m looking to collaborate on Projects, which will change the world! <br>
 - 🤔 I’m looking for help to build a Place for every IT Lover. (Turkish/English/German) <br>
-- 💬 Ask me about Python, Linux, BashScript, Open Source <br>
+- 💬 Ask me about Python , Js Open Source <br>
 - 📫 How to reach me: <a href= https://youtube.com/c/koddunyam>Youtube</a> / <a href= https://discord.gg/FUt8xFGjWP> Discord</a>   <br>
 
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
