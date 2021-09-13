@@ -1,7 +1,7 @@
 # Furkanugzmn
 
 <div align="center">
-<img width="100%" height = "300px" src="https://i.ibb.co/W282bG8/Screenshot-9.png" alt="cover" />
+<img width="100%" height = "300px" src="https://birparcatuhaftik.com/wp-content/uploads/2019/09/maxresdefault-1.jpg" alt="cover" />
 </div>
 
 <h1 align='center'> Welcome to Furkanugzmn's Github <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width=75> </h1>
