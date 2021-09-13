@@ -7,22 +7,24 @@
 <br>
  
 <div align="center">
-<img width="100%" height = "300px" src="https://volbiex.com/wp-content/uploads/2018/03/kizil-elma.jpg" alt="cover" />
+  <img width="100%" height = "300px" src="https://volbiex.com/wp-content/uploads/2018/03/kizil-elma.jpg" alt="cover" />
 </div>
 
+<div>
+  
 <h1 align='center'>
   
   <img src="https://thumbs.gfycat.com/FabulousOldFruitfly-size_restricted.gif" width=80>
   Welcome to Furkanugzmn's Github        
   <img src="https://thumbs.gfycat.com/FabulousOldFruitfly-size_restricted.gif" width=80> </h1>
   
-<p align='center'>
+  <p align='center'>
 
-</p>
-<br>
+  </p>
+  <br>
 
-<a href="https://github.com/Furkanugzmn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Furkanugzmn&count_private=true&show_icons=true&theme=chartreuse-dark" />
+  <a href="https://github.com/Furkanugzmn">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Furkanugzmn&count_private=true&show_icons=true&theme=chartreuse-dark" /></a>
   
   <a href="https://github.com/Furkanugzmn">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furkanugzmn&layout=compact&theme=chartreuse-dark&langs_count=8" /></a>
@@ -30,13 +32,15 @@
 
 </div>
   
- <h3>
+<br> 
+
+<h3>
   <p align='center'>I am a Developer. (NEW)<p>
-  
 </h3>
   
-  <br>
-  <br>
+ <br>
+ <br>
+  
 <h2> Skills/Things I mostly use: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <a href= https://discord.gg/FUt8xFGjWP> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg'> </a>
