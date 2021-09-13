@@ -16,7 +16,7 @@
 <a href="https://github.com/Furkanugzmn">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Furkanugzmn&count_private=true&show_icons=true&theme=chartreuse-dark" />
   <br>
-  
+  <br>
   <a href="https://github.com/Furkanugzmn">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furkanugzmn&layout=compact&theme=chartreuse-dark&langs_count=8" /></a>
   <br>
