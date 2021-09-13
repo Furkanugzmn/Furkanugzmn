@@ -10,7 +10,12 @@
 <img width="100%" height = "300px" src="https://volbiex.com/wp-content/uploads/2018/03/kizil-elma.jpg" alt="cover" />
 </div>
 
-<h1 align='center'> Welcome to Furkanugzmn's Github <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width=75> </h1>
+<h1 align='center'>
+  
+  <img src="https://thumbs.gfycat.com/FabulousOldFruitfly-size_restricted.gif" width=80>
+  Welcome to Furkanugzmn's Github        
+  <img src="https://thumbs.gfycat.com/FabulousOldFruitfly-size_restricted.gif" width=80> </h1>
+  
 <p align='center'>
 
 </p>
