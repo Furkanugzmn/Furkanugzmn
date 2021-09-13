@@ -1,4 +1,4 @@
-# Furkan
+# Furkanugzmn
 
 <div align="center">
 <img width="100%" height = "300px" src="https://i.ibb.co/W282bG8/Screenshot-9.png" alt="cover" />
