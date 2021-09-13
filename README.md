@@ -8,7 +8,6 @@
 <p align='center'>
 
   
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
 </p>
 <a href="https://github.com/Furkanugzmn">
@@ -21,7 +20,12 @@
 
 </div>
   
-  <h3>I am a Developer. (NEW)</h3>
+  <h3>
+  <p>I am a Developer. (NEW)<p>
+  <p align='center'>
+</h3>
+  
+  
   <br>
 <h2> Skills/Things I mostly use: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
