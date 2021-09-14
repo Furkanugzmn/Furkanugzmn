@@ -7,16 +7,16 @@
 <br>
  
 <div align="center">
-  <img width="100%" height = "300px" src="https://volbiex.com/wp-content/uploads/2018/03/kizil-elma.jpg" alt="cover" />
+  <img width="100%" height = "400px" src="https://c.tenor.com/DHWenG1ebgcAAAAM/deepweb.gif" alt="cover" />
 </div>
 
 <div>
   
 <h1 align='center'>
   
-  <img src="https://thumbs.gfycat.com/FabulousOldFruitfly-size_restricted.gif" width=80>
+  <img src="https://gifburg.com/images/gifs/wow/gifs/0005.gif" width=80>
   Welcome to Furkanugzmn's Github        
-  <img src="https://thumbs.gfycat.com/FabulousOldFruitfly-size_restricted.gif" width=80> </h1>
+  <img src="https://gifburg.com/images/gifs/wow/gifs/0005.gif" width=80> </h1>
   
   <p align='center'>
 
@@ -24,8 +24,9 @@
   <br>
 
   <a href="https://github.com/Furkanugzmn">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Furkanugzmn&count_private=true&show_icons=true&theme=chartreuse-dark" /></a>
-  
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Furkanugzmn&count_private=true&show_icons=true&theme=chartreuse-dark" /></a>
+  <br>
+  <br>
   <a href="https://github.com/Furkanugzmn">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furkanugzmn&layout=compact&theme=chartreuse-dark&langs_count=8" /></a>
   <br>
